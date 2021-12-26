@@ -1,2 +1,1 @@
-# machine-learninhg
-i have created this project
+# machine-learning
